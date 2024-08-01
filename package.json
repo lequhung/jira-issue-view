@@ -1,7 +1,7 @@
 {
-  "name": "atlassian-technical-interview",
+  "name": "jira-issue-view",
   "version": "0.0.1",
-  "description": "Atlassian Technical Interview",
+  "description": "Jira Issue View",
   "main": "src",
   "author": "Hung Le <hungqule@gmail.com>",
   "homepage": "/",
